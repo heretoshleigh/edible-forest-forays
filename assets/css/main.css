@@ -3461,7 +3461,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("../../images/banner.jpg");
+		/* background-image: url("../../images/banner.jpg"); */
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3630,6 +3630,10 @@ input, select, textarea {
 			.spotlight.left .content, .spotlight.right .content {
 				padding: 4.5em 2.5em;
 				width: 25em;
+			}
+
+			.content {
+				max-height: 100vh;
 			}
 
 		/* Wrapper */
@@ -4045,6 +4049,10 @@ input, select, textarea {
 				-webkit-transform: translateX(0);
 				-ms-transform: translateX(0);
 				transform: translateX(0);
+			}
+
+			.logo {
+				width: 50%;
 			}
 
 		/* Footer */
