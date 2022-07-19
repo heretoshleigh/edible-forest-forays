@@ -3,7 +3,7 @@ This dark and moody, responsive website was a blast to build for a mushroom fora
 
 [Visit live site](https://edibleforestforays.netlify.app/)
 
-![edible-forest](https://user-images.githubusercontent.com/101761079/179810197-91523681-bde0-4388-8c26-48b33e32f9e7.jpg)
+![edible-forest-forays](https://user-images.githubusercontent.com/101761079/179817287-5e42a7f6-bf82-460d-8eb2-03458582a430.jpg)
 
 ### Tech used:
 HTML, CSS, JavaScript
