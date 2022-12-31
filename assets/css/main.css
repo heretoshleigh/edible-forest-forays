@@ -3638,10 +3638,6 @@ input, select, textarea {
 				width: 25em;
 			}
 
-			.content {
-				max-height: 100vh;
-			}
-
 		/* Wrapper */
 
 			.wrapper {
@@ -4076,7 +4072,7 @@ input, select, textarea {
 		/* Basic */
 
 			html, body {
-				min-width: 320px;
+				min-width: 280px;
 			}
 
 			body, input, select, textarea {
